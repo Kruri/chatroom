@@ -1,5 +1,5 @@
 # spring-boot-demo-websocket-socketio
-
+sint
 > 此 demo 主要演示了 Spring Boot 如何使用 `netty-socketio` 集成 WebSocket，实现一个简单的聊天室。
 
 ## 1. 代码
